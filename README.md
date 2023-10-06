@@ -7,8 +7,8 @@ This project is an introduction to the C++ language. It is a reimplementation of
 ### Sources
 
 - [cplusplus.com](http://www.cplusplus.com/)
--
 
 ### TODO
 
+- [ ] `finish map reverse_iterator`
 - [ ] `set`
